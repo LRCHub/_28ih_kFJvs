@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Glitter",
+  "base_artist": "BENEE",
+  "createdAt": "2025-12-30T05:56:23.276585Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glitter",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/01_Glitter_f(x).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Glitter",
+      "artist": "No Age",
+      "has_synced": true,
+      "path": "select/02_Glitter_No_Age.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Glitter",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/03_Glitter_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Glitter Years",
+      "artist": "The Bangles",
+      "has_synced": true,
+      "path": "select/04_Glitter_Years_The_Bangles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Glitter Years",
+      "artist": "The Bangles",
+      "has_synced": false,
+      "path": "select/05_Glitter_Years_The_Bangles.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pleasure, Little Treasure (Glitter Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/06_Pleasure,_Little_Treasure_(Glitter_Mix)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Glitter and Ash",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/07_Glitter_and_Ash_Gary_Numan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pleasure, Little Treasure - Glitter Mix",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/08_Pleasure,_Little_Treasure_-_Glitter_Mix_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Glitter Freeze (feat. Mark E Smith)",
+      "artist": "Gorillaz feat. Mark E. Smith",
+      "has_synced": false,
+      "path": "select/09_Glitter_Freeze_(feat._Mark_E_Smith)_Gorillaz_feat._Mark_E._Smith.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Glitter Freeze (feat. Mark E Smith)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/10_Glitter_Freeze_(feat._Mark_E_Smith)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strict Machine (We Are Glitter)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/11_Strict_Machine_(We_Are_Glitter)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Strict Machine (We Are Glitter Mix) (Bonus Track)",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/12_Strict_Machine_(We_Are_Glitter_Mix)_(Bonus_Track)_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Glitter Pills",
+      "artist": "HEALTH",
+      "has_synced": true,
+      "path": "select/13_Glitter_Pills_HEALTH.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Raining Glitter",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/14_Raining_Glitter_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pink and Glitter",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/15_Pink_and_Glitter_Tori_Amos.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glitter",
+      "artist": "BENEE",
+      "has_synced": false,
+      "path": "select/pl_01_Glitter_BENEE.txt"
+    }
+  ]
+}
